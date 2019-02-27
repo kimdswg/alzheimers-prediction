@@ -1,8 +1,3 @@
-# testgpapes
-lab Dec1
 
-##hello
-
-i am not crazy, but i think the professor is
-
-> Apparently this is a quote
+## Alzheimer's Detection from ADNI data
+###### This project was a team effort, completed to fulfill requirements for the Intro to Data Science (CS109A) course at the Harvard Graduate School of Engineering and Applied Sciences.
