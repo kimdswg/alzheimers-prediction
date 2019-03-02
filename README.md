@@ -21,6 +21,6 @@ For this analysis, two data sets were merged:
  The objective is not to predict incidence of Alzheimer's disease, but to analyze which clinical diagnostic tests have the most influence on final positive diagnosis. Our goal is to  identify the minimal set of such predictors that can lower the overall cost of clinical testing without sacrificing a substantial degree of diagnostic accuracy.
 
 
-The complete project is published at <https://knickhill.github.io/ad-detection/>
+The complete project is published at <https://knickhill.github.io/alzheimers-prediction/>
 
-The associated jupyter notebook can be found at <https://knickhill.github.io/ad-detection/model.html>
+The associated jupyter notebook can be found at <https://knickhill.github.io/alzheimers-prediction/model.html>
