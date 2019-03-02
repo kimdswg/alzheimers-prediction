@@ -18,7 +18,11 @@ For this analysis, two data sets were merged:
   http://adni.loni.usc.edu/wp-content/uploads/how_to_apply/ADNI_Acknowledgement_List.pdf*
 
 #### Objective
- The objective is not to predict incidence of Alzheimer's disease, but to analyze which clinical diagnostic tests have the most influence on final positive diagnosis. Our goal is to  identify the minimal set of such predictors that can lower the overall cost of clinical testing without sacrificing a substantial degree of diagnostic accuracy.
+ The question being answered can be stated as follows:
+
+- What is the minimal set of diagnostic predictors (i.e biomarkers) that can lower the overall cost of clinical testing without sacrificing a substantial degree of diagnostic accuracy?
+
+Thus, goal of the analysis is not to predict incidence of Alzheimer's disease, but to analyze which clinical diagnostic tests have the most influence on final positive diagnosis. 
 
 
 The complete project is published at <https://knickhill.github.io/alzheimers-prediction/>
