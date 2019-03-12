@@ -1,7 +1,7 @@
 
 ## Alzheimer's Detection from ADNI data
 
-This project was submitted to fulfill requirements for the Intro to Data Science (CS109A) course at the Harvard Graduate School of Engineering and Applied Sciences. Team members: Jonathan Fisher, Kezi Cheng, Nikhil Mallareddy
+This project was submitted to fulfill requirements of the Intro to Data Science (CS109A) course at the Harvard Graduate School of Engineering and Applied Sciences. Team members: Jonathan Fisher, Kezi Cheng, Nikhil Mallareddy
 
 ## Data set
 For this analysis, we merged two data sets:
@@ -32,7 +32,7 @@ The question we want to answer is:
 
 - What is the minimal set of diagnostic predictors that can lower the overall cost of clinical testing without sacrificing a substantial degree of diagnostic accuracy?
 
-Thus, our goal is not to develop a machine learning algorithm that accurately predicts Alzheimer's disease risk, but to find out which clinical diagnostic tests have the most influence on final positive diagnosis.
+Therefore, our goal is not to develop a machine learning algorithm that accurately predicts Alzheimer's disease risk, but to find out which clinical diagnostic tests have the most influence on final positive diagnosis.
 
 
 ## Summary of Results
