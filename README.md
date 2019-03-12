@@ -30,7 +30,7 @@ Both data sets are available (with access controls) at adni.loni.usc.edu
 ## Objective
 The question we want to answer is:
 
-- What is the minimal set of diagnostic predictors that can lower the overall cost of clinical testing without sacrificing a substantial degree of diagnostic accuracy?
+>What is the minimal set of diagnostic predictors that can lower the overall cost of clinical testing without sacrificing a substantial degree of diagnostic accuracy?
 
 Therefore, our goal is not to develop a machine learning algorithm that accurately predicts Alzheimer's disease risk, but to find out which clinical diagnostic tests have the most influence on final positive diagnosis.
 
@@ -44,7 +44,7 @@ We trained 6 baseline models and chose the multinomial logistic regression model
 
 ## Dependencies
 
-The complete project is published at <https://knickhill.github.io/alzheimers-prediction/>
+Python libraries - NumPy, Pandas, SciPy, Scikit-learn, statsmodels, Matplotlib, Seaborn, datetime
 
+The complete project is published at <https://knickhill.github.io/alzheimers-prediction/>
 The associated jupyter notebook can be found at <https://knickhill.github.io/alzheimers-prediction/model.html>
-.gitignore
