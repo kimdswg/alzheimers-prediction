@@ -45,5 +45,5 @@ We trained 6 baseline models and chose the multinomial logistic regression model
 
 Python libraries - NumPy, Pandas, SciPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn
 
-The complete project is published at <https://knickhill.github.io/alzheimers-prediction/>
+The complete project is published at <https://knickhill.github.io/alzheimers-prediction/> <br />
 The associated jupyter notebook can be found at <https://knickhill.github.io/alzheimers-prediction/model.html>
