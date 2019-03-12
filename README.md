@@ -36,7 +36,7 @@ Both data sets are available (with access controls) at adni.loni.usc.edu
 
 ## Summary of Results
 
-We trained 6 baseline models and chose the multinomial logistic regression model as the best performing one. An important part of our analysis was to compare the contribution of each predictor to model accuracy against its summary cost metric (which is an aggregate cost function combining costs in performing the test and cost incurred due to the stage at which disease is diagnosed). The key result is that genetic tests offer the optimal tradeoff between cost and accuracy of prediction.
+We trained 6 baseline models and chose the multinomial logistic regression model as the best performing one. An important part of our analysis was to compare the contribution of each predictor to model accuracy against its summary cost metric (which is an aggregate cost function combining costs in performing the test and cost incurred due to the stage at which disease is diagnosed). A key result is that genetic tests offer the optimal tradeoff between cost and accuracy of prediction.
 
 ![key_result](Report/images/image1.png)
 
