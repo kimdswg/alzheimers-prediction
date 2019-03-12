@@ -3,6 +3,13 @@
 
 This project was submitted to fulfill requirements of the Intro to Data Science (CS109A) course at the Harvard Graduate School of Engineering and Applied Sciences. Team members: Jonathan Fisher, Kezi Cheng, Nikhil Mallareddy
 
+## Objective
+The question we want to answer is:
+
+- What is the minimal set of diagnostic predictors that can lower the overall cost of clinical testing without sacrificing a substantial degree of diagnostic accuracy?
+
+Therefore, our goal is not to develop a machine learning algorithm that accurately predicts Alzheimer's disease risk, but to find out which clinical diagnostic tests have the most influence on final positive diagnosis.
+
 ## Data set
 For this analysis, we merged two data sets:
   1. ADNIMERGE - Contains data about various clinical, genetic, and imaging biomarkers from participants in a longitudinal multi-center study.
@@ -26,13 +33,6 @@ Both data sets are available (with access controls) at adni.loni.usc.edu
   but did not participate in analysis or writing of this report. A complete listing of ADNI
   investigators can be found at:
   http://adni.loni.usc.edu/wp-content/uploads/how_to_apply/ADNI_Acknowledgement_List.pdf*
-
-## Objective
-The question we want to answer is:
-
->What is the minimal set of diagnostic predictors that can lower the overall cost of clinical testing without sacrificing a substantial degree of diagnostic accuracy?
-
-Therefore, our goal is not to develop a machine learning algorithm that accurately predicts Alzheimer's disease risk, but to find out which clinical diagnostic tests have the most influence on final positive diagnosis.
 
 
 ## Summary of Results
