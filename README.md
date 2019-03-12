@@ -13,7 +13,6 @@ Therefore, our goal is not to develop a machine learning algorithm that accurate
 ## Data set
 For this analysis, we merged two data sets:
   1. ADNIMERGE - Contains data about various clinical, genetic, and imaging biomarkers from participants in a longitudinal multi-center study.
-
   2. UPENN-CSF - Contains information about concentration of Amyloid beta compounds in cerebro-spinal fluid (CSF), which is known to be strongly correlated with  Alzheimer's disease risk.
 
 Disease status is classified into three categories:
@@ -44,7 +43,7 @@ We trained 6 baseline models and chose the multinomial logistic regression model
 
 ## Dependencies
 
-Python libraries - NumPy, Pandas, SciPy, Scikit-learn, statsmodels, Matplotlib, Seaborn, datetime
+Python libraries - NumPy, Pandas, SciPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn
 
 The complete project is published at <https://knickhill.github.io/alzheimers-prediction/>
 The associated jupyter notebook can be found at <https://knickhill.github.io/alzheimers-prediction/model.html>
